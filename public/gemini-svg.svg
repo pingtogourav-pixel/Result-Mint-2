@@ -1,0 +1,16 @@
+<svg width="400" height="100" viewBox="0 0 400 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Concept 5: The ResultMint Signature Icon -->
+  <g transform="translate(10, 20)">
+    <!-- Flowing 'R' curve -->
+    <path d="M 15,60 V 15 C 15,15 45,10 45,35 C 45,52 30,52 30,52 L 50,60" fill="none" stroke="#FFFFFF" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+    <!-- Sharp 'M' / Growth Edge -->
+    <path d="M 38,38 L 55,15 L 65,60" fill="none" stroke="#DFFF00" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+
+  <!-- Typography: ResultMint -->
+  <g transform="translate(95, 64)">
+    <text font-family="'Inter', 'Helvetica Neue', sans-serif" font-weight="800" font-size="44" letter-spacing="-1.5">
+      <tspan fill="#FFFFFF">Result</tspan><tspan fill="#DFFF00">Mint</tspan>
+    </text>
+  </g>
+</svg>
