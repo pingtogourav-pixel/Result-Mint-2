@@ -1,5 +1,5 @@
 export const company = {
-  name: 'Result Mint', since: '2019', email: 'hello@resultmint.in', team: '80+', campaigns: '150+', budget: '$7M+',
+  name: 'Result Mint', since: '2019', email: 'hello@resultmint.in', phone: '+91 7019096160', team: '80+', campaigns: '150+', budget: '$7M+',
   address: 'BHIVE, Mahalakshmi Chambers, 29, Mahatma Gandhi Rd, next to Trinity Metro Station, opposite Kotak Bank, Yellappa Garden, Yellappa Chetty Layout, Sivanchetti Gardens, Bengaluru, Karnataka 560001'
 };
 
